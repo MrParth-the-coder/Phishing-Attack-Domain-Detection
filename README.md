@@ -66,7 +66,7 @@ The machine learning models considered to train the dataset in this project are 
 ## 👨‍💻 To run (locally)
 1. Import this repository using git command
 ```
-git clone https://github.com/deepeshdm/Phishing-Attack-Domain-Detection.git
+git clone https://github.com/MrParth-the-coder/Phishing-Attack-Domain-Detection.git
 ```
 2. Install all the required dependencies inside a virtual environment
 ```
@@ -93,8 +93,8 @@ print(prediction)
 In order to make it easy for anyone to interact with the model,we created a clean web interface using ReactJS and deployed it on Heroku cloud space. We also created a microservice Rest API, so that developers can use this model in their applications.
 
 - Checkout Official Website : [phishr.vercel.com](https://phishr.vercel.app/)
-- Frontend Repository : [here](https://github.com/deepeshdm/phishr) (Newly Updated 2023)
-- Backend API repository : [here](https://github.com/deepeshdm/Phishr-API) (Newly Updated 2023)
+- Frontend Repository : [here](https://github.com/MrParth-the-coder/phishr) (Newly Updated 2025)
+- Backend API repository : [here](https://github.com/MrParth-the-coder/Phishr-API) (Newly Updated 2025)
 
 <div align="center">
 <img src="/Imgs/phishr-demo3.gif" width="90%"/>
